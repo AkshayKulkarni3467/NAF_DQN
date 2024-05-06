@@ -29,7 +29,7 @@ The returns and loss after 22k steps are:
 Lunar-Lander after 1000 iterations:
 
 
-https://github.com/AkshayKulkarni3467/NAF_DQN/assets/129979542/c1c2ed9e-e46e-4590-a964-ba6e1d24df9
+https://github.com/AkshayKulkarni3467/NAF_DQN/assets/129979542/3e7931d8-fae1-470e-827b-9ac6aefc17f0
 
 Lunar-Lander after 20000 iterations:
 
